@@ -7,24 +7,27 @@
 
 - 🔭 I’m currently a **Fresher**
 
-- 🌱 I’m currently learning **Full Stack Development from Upgrade**
+- 🌱 I’m currently learning **Full Stack Development **
 
-- 🤝 I’m looking for help in **getting opportunities in front-end development**
+- 🤝 I’m looking for help in **getting opportunities in full-stack development**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **MERN Stack, CSS, HTML, JavaScript**
 
 - 📫 How to reach me **ashishgk1999@gmail.com**
 
-- 📄 Know about my experiences [https://akm-engineer.github.io/Portfolio-website-1/](https://akm-engineer.github.io/Portfolio-website-1/)
-
 - ⚡ Fun fact **I absolutely love trekking**
 
-<h3 align="left">## 🌐 Socials:</h3>
+<h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_k_m_1999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akm-engineer) 
 </p>
 
+<h3 align="left"> 📊 GitHub Stats:</h3>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akm-engineer&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ->
