@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left">  
+
 <a href="https://www.w3.org/html/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="50px" src="./assets/html.png" />
 </a>
@@ -97,12 +97,11 @@
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/tailwind.png" />
 </a>
 
-</div>
 
-<br/>
+
     
 
-<div align="center">
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -111,10 +110,10 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akm-engineer&theme=jolly&hide_border=false"> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> &nbsp;&nbsp;
 
 </p>
-</div>
+
 
 ### 🔝 Top Contributed Repo
 
