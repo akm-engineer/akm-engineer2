@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://expressjs.com" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/expressjs.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/expressjs.png" />
 </a>
 
 <a href="https://www.figma.com/" target="_blank">
@@ -71,14 +71,14 @@
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/mongodb.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mongodb.png" />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/mysql.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mysql.png" />
 </a>
 
 <a href="https://nodejs.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/nodejs.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/nodejs.png" />
 </a>
 
 <a href="https://www.python.org" target="_blank">
@@ -86,15 +86,15 @@
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/react.js-img.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/react.js-img.png" />
 </a>
 
 <a href="https://redux.js.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/redux.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/redux.png" />
 </a>
 
 <a href="[https://www.typescriptlang.org](https://tailwindcss.com/docs/installation)" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/tailwind.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/tailwind.png" />
 </a>
 
 </div>
