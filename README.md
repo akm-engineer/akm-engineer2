@@ -28,86 +28,10 @@
 <a href="https://instagram.com/a_k_m_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_m_1999" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="50px" src="./assets/html.png" />
-</a>
 
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/cloudinary.jpg" />
-</a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/css.png" />
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/expressjs.png" />
-</a>
-
-</br>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/figma.png" />
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/firebase.png" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/git.png" />
-</a>
-
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/github.jpg" />
-</a>
-
-</br>
-
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/js.png" />
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/linux.png" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mongodb.png" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mysql.png" />
-</a>
-
-</br>
-
-<a href="https://nodejs.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/nodejs.png" />
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/python.png" />
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/react.js-img.png" />
-</a>
-
-<a href="https://redux.js.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/redux.png" />
-</a>
-
-</br>
-
-<a href="[https://www.typescriptlang.org](https://tailwindcss.com/docs/installation)" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/tailwind.png" />
-</a>
-
-</br>
 
     
 
