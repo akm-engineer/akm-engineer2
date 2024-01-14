@@ -47,6 +47,8 @@
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/expressjs.png" />
 </a>
 
+</br>
+
 <a href="https://www.figma.com/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/figma.png" />
 </a>
@@ -54,6 +56,7 @@
 <a href="https://firebase.google.com/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/firebase.png" />
 </a>
+
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/git.png" />
 </a>
@@ -61,6 +64,8 @@
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/github.jpg" />
 </a>
+
+</br>
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/js.png" />
@@ -73,9 +78,12 @@
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mongodb.png" />
 </a>
+
 <a href="https://www.mysql.com/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/mysql.png" />
 </a>
+
+</br>
 
 <a href="https://nodejs.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/nodejs.png" />
@@ -93,11 +101,13 @@
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/redux.png" />
 </a>
 
+</br>
+
 <a href="[https://www.typescriptlang.org](https://tailwindcss.com/docs/installation)" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/tailwind.png" />
 </a>
 
-
+</br>
 
     
 
