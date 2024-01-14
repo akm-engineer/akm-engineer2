@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ashishgk1999@gmail.com**
   
--  📄 Know about my experiences [https://drive.google.com/file/d/1I0ysckvKsgHTtyjhU56jAoTHd3lXBGvl/view?usp=sharing](https://drive.google.com/file/d/1I0ysckvKsgHTtyjhU56jAoTHd3lXBGvl/view?usp=sharing)
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I0ysckvKsgHTtyjhU56jAoTHd3lXBGvl/view?usp=sharing)
 
 - ⚡ Fun fact **I absolutely love trekking**
 
