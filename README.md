@@ -32,7 +32,7 @@
 
 <div align="left">  
 <a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/html.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="30" width="40px" src="./assets/html.png" />
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
