@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align=""left>
+<p align=""left>
   
 <a href="https://www.w3.org/html/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/html.png" />
@@ -98,8 +98,9 @@
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/tailwind.png" />
 </a>
 
-</div>
+</p>
 
+</br>
     
 ---
 
