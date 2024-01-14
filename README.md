@@ -32,11 +32,11 @@
 
 <div align="left">  
 <a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="50" width="50px" src="./assets/html.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="50px" src="./assets/html.png" />
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" height="50" width="70px" src="./assets/cloudinary.jpg" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="80px" src="./assets/cloudinary.jpg" />
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
