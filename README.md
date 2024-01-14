@@ -29,8 +29,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="[./assets/typescript-logo.svg](https://github.com/akm-engineer/akm-engineer/assets/118009781/0bff82a6-140b-4115-8e12-7e3e9162249c)" />
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/html.png" />
 </a>
 
 
