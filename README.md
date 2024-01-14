@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ashishgk1999@gmail.com**
   
--  📄 Know about my experiences <h1 align="center"> <h1 align="center"> नमस्ते ! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Ashish Kumar Mishra</h1>
+-  📄 Know about my experiences <h1 align="center">[Resume](https://drive.google.com/file/d/13jEhXcLE5LcfYBR8me0tjf68W96RubeL/view?usp=sharing)
 
 <p align="center"><img src="https://github.com/akm-engineer/akm-engineer/assets/118009781/b5c77ad8-b0ee-4d1d-8c8d-0e783fe90148"></p>
 
