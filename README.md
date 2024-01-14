@@ -25,7 +25,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true">
 ![](https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
