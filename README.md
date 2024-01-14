@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a **Fresher**
 
-- 🌱 I’m currently learning **Full Stack Development **
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 🤝 I’m looking for help in **getting opportunities in full-stack development**
 
