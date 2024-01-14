@@ -38,7 +38,7 @@
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/cloudinary.jpg" />
 </a>
 
-<a href="https://www.typescriptlang.org" target="_blank">
+<a href="https://www.w3schools.com/css/" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/css.png" />
 </a>
 
