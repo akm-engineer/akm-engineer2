@@ -97,9 +97,9 @@
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/tailwind.png" />
 </a>
 
+</p>
 
-
-     </p>
+    
 
 # 📊 GitHub Stats:
 
