@@ -40,61 +40,61 @@
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/css.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/css.png" />
 </a>
 
 <a href="https://expressjs.com" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/expressjs.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/expressjs.png" />
 </a>
 
 <a href="https://www.figma.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/figma.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/figma.png" />
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/firebase.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/firebase.png" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/git.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/git.png" />
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/github.jpg" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/github.jpg" />
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/js.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/js.png" />
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/linux.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/linux.png" />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/mongodb.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/mongodb.png" />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/mysql.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/mysql.png" />
 </a>
 
 <a href="https://nodejs.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/nodejs.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/nodejs.png" />
 </a>
 
 <a href="https://www.python.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/python.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/python.png" />
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/react.js-img.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/react.js-img.png" />
 </a>
 
 <a href="https://redux.js.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/redux.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/redux.png" />
 </a>
 
 <a href="[https://www.typescriptlang.org](https://tailwindcss.com/docs/installation)" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/tailwind.png" />
+  <img align="left" title="Typescript" alt="Typescript" height="70" width="40px" src="./assets/tailwind.png" />
 </a>
 
 </div>
