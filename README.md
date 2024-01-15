@@ -52,3 +52,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=akm-engineer&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
