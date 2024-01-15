@@ -28,6 +28,9 @@
 <br/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
+    <a href="mailto:ashishgk1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
  <a href="https://linkedin.com/in/akm-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akm-engineer" height="30" width="40" /></a>
 <a href="https://instagram.com/a_k_m_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_m_1999" height="30" width="40" /></a>
 </p>
