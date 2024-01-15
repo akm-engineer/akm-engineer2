@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I absolutely love trekking**
 
-<hr/>
+<br/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="https://linkedin.com/in/akm-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akm-engineer" height="30" width="40" /></a>
