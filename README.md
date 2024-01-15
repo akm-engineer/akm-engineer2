@@ -44,11 +44,11 @@
 </p>
  
 
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">
+<div align=center>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"> &nbsp;
 
@@ -56,7 +56,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> &nbsp;&nbsp;
 
-</p>
+</div>
 
 
 ### 🔝 Top Contributed Repo
